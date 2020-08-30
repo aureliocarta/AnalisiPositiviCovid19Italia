@@ -1,0 +1,38 @@
+---
+title: "Info"
+author: "Aurelio Carta"
+date: "30/8/2020"
+output: html_document
+---
+# Autore
+
+
+
+
+
+<img src="www/foto.png" align="middle" height="262" width="258" margin="0 auto" />
+
+
+
+
+Aurelio Carta (matricola: 1930183)
+
+_____________________________________________________________________________________________________________________________________________________
+# L'App
+Lo sviluppo dell'app è la seconda parte dell'esame in *Data visualization, data analytics, data modeling* del Master di II livello in *Big Data. Metodi statistici per la società della conoscenza* (a.a. 2019-2020).
+Facoltà di Ingegneria dell'Informazione, Informatica e Statistica, Sapienza Università di Roma.
+La prima parte consiste invece in un [Report](www/ReportCovid19Gruppo2.pdf) sullo stesso argomento sviluppato in gruppo.
+
+_____________________________________________________________________________________________________________________________________________________
+
+# Come funziona 
+L'applicazione è  sviluppata in R, attraverso l'utilizzo della libreria Shiny, e si aggiorna automaticamente ogni volta che un utente si connette ad essa. 
+_____________________________________________________________________________________________________________________________________________________
+
+# Fonti
+I dati sull'epidemia Covid-19 sono disponibili a partire dal 24 Febbraio 2020 e aggiornati all'ultima versione del repository Github della protezione civile, disponibile al seguente [link](https://github.com/pcm-dpc/COVID-19). 
+Per le cartine sono stati utilizzati gli shape file rilasciati dall'Istat e disponibili [qui](https://www.istat.it/it/archivio/222527).
+_____________________________________________________________________________________________________________________________________________________
+
+# Altro
+Per la realizzazione dell'app si è preso spunto dall'app [Analisi dell'epidemia di CoviD-19 in Italia](https://statgroup19.shinyapps.io/Covid19App/) sviluppata dal gruppo di ricerca scientifica  StatGroup-19.

@@ -1,0 +1,44 @@
+
+
+
+.navbar  {
+  background-color: #375a7f;
+    border-color: #283f56;
+}
+ 
+ .active > a { 
+  background-color: #283f56!important;   
+}
+
+
+navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    background-color: #4E7BA9 !important;
+}
+
+#isolamento .small-box {
+background-color: #8BC34A !important;
+}
+
+
+#ricoverati .small-box {
+background-color: #2196F3!important;
+}
+
+
+#terapia .small-box {
+background-color: #F44236!important;
+
+}
+
+
+
+a {
+    color: #0066CC ;
+    text-decoration: none;
+}
+
+
+a:hover, a:focus {
+    color: #0066CC;
+    text-decoration: underline;
+}
